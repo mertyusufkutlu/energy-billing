@@ -51,14 +51,14 @@ Frontend (Angular Uygulaması): http://localhost:4200
 
 # Response
 
-| Parametre   | Tip  | Açıklama                            |
-|-------------|------|----------------------------------------|
-| customerId  | Guid | 3fa85f64-5717-4562-b3fc-2c963f66afa6            |
-| energyTotal  | decimal  | 3fa85f64-5717-4562-b3fc-2c963f66afa6            |
-| distributionTotal  | decimal | 3fa85f64-5717-4562-b3fc-2c963f66afa6            |
-| btvTotal  | decimal | 3fa85f64-5717-4562-b3fc-2c963f66afa6            |
-| vatTotal  | decimal | 3fa85f64-5717-4562-b3fc-2c963f66afa6            |
-| grandTotal  | decimal | 3fa85f64-5717-4562-b3fc-2c963f66afa6            |
+| Parametre         | Tip     | Açıklama                                      |
+|-------------------|---------|-----------------------------------------------|
+| customerId        | Guid    | Müşteriye ait benzersiz kimlik numarası       |
+| energyTotal       | decimal | Toplam enerji bedeli                          |
+| distributionTotal | decimal | Toplam dağıtım bedeli                         |
+| btvTotal          | decimal | Belediye Tüketim Vergisi (BTV) toplamı        |
+| vatTotal          | decimal | Katma Değer Vergisi (KDV) toplamı             |
+| grandTotal        | decimal | Genel toplam (Tüm kalemlerin toplamı)         |
 
 
 
