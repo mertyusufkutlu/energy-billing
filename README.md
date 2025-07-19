@@ -1,6 +1,6 @@
 # ⚡ Energy Billing System
 
-Bu proje Sayax Teknoloji A.Ş adına yapılmış bir tasktır.
+Bu proje Sayax Teknoloji A.Ş adına yapılmış bir tasktır. </br></br>
 Enerji sektöründe faaliyet gösteren firmaların müşterilerine kesilecek **fatura tutarlarını** ve **belediyelere ödenecek vergileri** hesaplamak amacıyla geliştirilmiştir. Proje, hem backend hem de frontend bileşenleri içeren modern ve dockerize edilmiş bir mimariye sahiptir.
 
 ---
