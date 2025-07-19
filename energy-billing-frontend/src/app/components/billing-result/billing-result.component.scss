@@ -1,0 +1,16 @@
+:host ::ng-deep .p-datatable tfoot tr {
+  background-color: #f9f9f9;
+  font-weight: bold;
+  border-top: 2px solid #ccc;
+}
+
+:host ::ng-deep .p-datatable tfoot td {
+  padding: 10px;
+  text-align: right;
+  font-size: 14px;
+}
+
+:host ::ng-deep .p-datatable tfoot td:first-child {
+  text-align: left;
+  color: #333;
+}

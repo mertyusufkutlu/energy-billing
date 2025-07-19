@@ -1,0 +1,26 @@
+services:
+  backend:
+    container_name: energy-billing-backend
+    build:
+      context: ./energy-billing-backend/EnergyBilling
+      dockerfile: EnergyBilling.API/Dockerfile
+    ports:
+      - "5217:8080"
+    networks:
+      - energy-net
+
+  frontend:
+    container_name: energy-billing-frontend
+    build:
+      context: ./energy-billing-frontend
+      dockerfile: Dockerfile
+    ports:
+      - "4200:80"
+    depends_on:
+      - backend
+    networks:
+      - energy-net
+
+networks:
+  energy-net:
+    driver: bridge

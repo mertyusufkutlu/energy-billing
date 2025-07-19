@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Satır arkaplanı - Zebra efekti */
+.p-datatable-striped tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* Header stilleri */
+.p-datatable .p-datatable-thead > tr > th {
+  background-color: #e0e7ff;
+  color: #1e40af;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Footer stilleri */
+.p-datatable .p-datatable-tfoot > tr > td {
+  background-color: #f0f9ff;
+  font-weight: bold;
+}
+
