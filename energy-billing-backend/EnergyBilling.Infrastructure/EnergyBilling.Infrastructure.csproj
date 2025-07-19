@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\EnergyBilling.Domain\EnergyBilling.Domain.csproj" />
+      <ProjectReference Include="..\EnergyBilling.Shared\EnergyBilling.Shared.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="ExcelDataReader" Version="3.7.0" />
+      <PackageReference Include="ExcelDataReader.DataSet" Version="3.7.0" />
+      <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
+      <PackageReference Include="System.Text.Encoding.CodePages" Version="9.0.7" />
+    </ItemGroup>
+
+</Project>

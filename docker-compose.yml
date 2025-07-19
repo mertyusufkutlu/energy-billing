@@ -2,7 +2,7 @@ services:
   backend:
     container_name: energy-billing-backend
     build:
-      context: ./energy-billing-backend/EnergyBilling
+      context: ./energy-billing-backend
       dockerfile: EnergyBilling.API/Dockerfile
     ports:
       - "5217:8080"

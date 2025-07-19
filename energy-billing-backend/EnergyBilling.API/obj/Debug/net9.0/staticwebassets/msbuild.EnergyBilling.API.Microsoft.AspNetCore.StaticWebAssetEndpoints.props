@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/EnergyBilling.API/files/Sayax_Task_Veri.ghabt039fn.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\Sayax_Task_Veri.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ghabt039fn"},{"Name":"integrity","Value":"sha256-LEmYgYNy1dKAY0JQEh8d7kv7II7Vf/IPKh7S9EpW4Bg="},{"Name":"label","Value":"_content/EnergyBilling.API/files/Sayax_Task_Veri.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"75535"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022LEmYgYNy1dKAY0JQEh8d7kv7II7Vf/IPKh7S9EpW4Bg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Jul 2025 19:45:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EnergyBilling.API/files/Sayax_Task_Veri.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\Sayax_Task_Veri.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LEmYgYNy1dKAY0JQEh8d7kv7II7Vf/IPKh7S9EpW4Bg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"75535"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022LEmYgYNy1dKAY0JQEh8d7kv7II7Vf/IPKh7S9EpW4Bg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Jul 2025 19:45:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

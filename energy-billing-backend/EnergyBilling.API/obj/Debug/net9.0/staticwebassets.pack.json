@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\energy-billing\\energy-billing-backend\\EnergyBilling\\EnergyBilling.API\\wwwroot\\files\\Sayax_Task_Veri.xlsx",
+      "PackagePath": "staticwebassets\\files\\Sayax_Task_Veri.xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.EnergyBilling.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.EnergyBilling.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.EnergyBilling.API.props",
+      "PackagePath": "build\\EnergyBilling.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.EnergyBilling.API.props",
+      "PackagePath": "buildMultiTargeting\\EnergyBilling.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.EnergyBilling.API.props",
+      "PackagePath": "buildTransitive\\EnergyBilling.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

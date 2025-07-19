@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7hl7S8+EULg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mert\\Desktop\\energy-billing\\energy-billing-backend\\EnergyBilling\\EnergyBilling.Infrastructure\\EnergyBilling.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mert\\.nuget\\packages\\exceldatareader\\3.7.0\\exceldatareader.3.7.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\exceldatareader.dataset\\3.7.0\\exceldatareader.dataset.3.7.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\system.text.encoding.codepages\\9.0.7\\system.text.encoding.codepages.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

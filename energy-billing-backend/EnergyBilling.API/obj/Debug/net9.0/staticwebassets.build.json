@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "Sxn8OlT1o3pGOwgczSIDbzN/BhkvEPXUbfa85Q+pJnc=",
+  "Source": "EnergyBilling.API",
+  "BasePath": "_content/EnergyBilling.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EnergyBilling.API\\wwwroot",
+      "Source": "EnergyBilling.API",
+      "ContentRoot": "C:\\Users\\Mert\\Desktop\\energy-billing\\energy-billing-backend\\EnergyBilling\\EnergyBilling.API\\wwwroot\\",
+      "BasePath": "_content/EnergyBilling.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Mert\\Desktop\\energy-billing\\energy-billing-backend\\EnergyBilling\\EnergyBilling.API\\wwwroot\\files\\Sayax_Task_Veri.xlsx",
+      "SourceId": "EnergyBilling.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mert\\Desktop\\energy-billing\\energy-billing-backend\\EnergyBilling\\EnergyBilling.API\\wwwroot\\",
+      "BasePath": "_content/EnergyBilling.API",
+      "RelativePath": "files/Sayax_Task_Veri#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ghabt039fn",
+      "Integrity": "LEmYgYNy1dKAY0JQEh8d7kv7II7Vf/IPKh7S9EpW4Bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\Sayax_Task_Veri.xlsx"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "files/Sayax_Task_Veri.ghabt039fn.xlsx",
+      "AssetFile": "C:\\Users\\Mert\\Desktop\\energy-billing\\energy-billing-backend\\EnergyBilling\\EnergyBilling.API\\wwwroot\\files\\Sayax_Task_Veri.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LEmYgYNy1dKAY0JQEh8d7kv7II7Vf/IPKh7S9EpW4Bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 19:45:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghabt039fn"
+        },
+        {
+          "Name": "label",
+          "Value": "files/Sayax_Task_Veri.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LEmYgYNy1dKAY0JQEh8d7kv7II7Vf/IPKh7S9EpW4Bg="
+        }
+      ]
+    },
+    {
+      "Route": "files/Sayax_Task_Veri.xlsx",
+      "AssetFile": "C:\\Users\\Mert\\Desktop\\energy-billing\\energy-billing-backend\\EnergyBilling\\EnergyBilling.API\\wwwroot\\files\\Sayax_Task_Veri.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LEmYgYNy1dKAY0JQEh8d7kv7II7Vf/IPKh7S9EpW4Bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 19:45:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LEmYgYNy1dKAY0JQEh8d7kv7II7Vf/IPKh7S9EpW4Bg="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "files/Sayax_Task_Veri.ghabt039fn.xlsx",
+      "AssetFile": "files/Sayax_Task_Veri.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LEmYgYNy1dKAY0JQEh8d7kv7II7Vf/IPKh7S9EpW4Bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 19:45:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghabt039fn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LEmYgYNy1dKAY0JQEh8d7kv7II7Vf/IPKh7S9EpW4Bg="
+        },
+        {
+          "Name": "label",
+          "Value": "files/Sayax_Task_Veri.xlsx"
+        }
+      ]
+    },
+    {
+      "Route": "files/Sayax_Task_Veri.xlsx",
+      "AssetFile": "files/Sayax_Task_Veri.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LEmYgYNy1dKAY0JQEh8d7kv7II7Vf/IPKh7S9EpW4Bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 19:45:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LEmYgYNy1dKAY0JQEh8d7kv7II7Vf/IPKh7S9EpW4Bg="
+        }
+      ]
+    }
+  ]
+}

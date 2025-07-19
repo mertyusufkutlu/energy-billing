@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\EnergyBilling.Domain\EnergyBilling.Domain.csproj" />
+      <ProjectReference Include="..\EnergyBilling.Infrastructure\EnergyBilling.Infrastructure.csproj" />
+      <ProjectReference Include="..\EnergyBilling.Shared\EnergyBilling.Shared.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MediatR" Version="13.0.0" />
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Invoices\Services\" />
+    </ItemGroup>
+
+</Project>

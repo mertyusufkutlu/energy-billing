@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyBilling.API", "EnergyBilling.API\EnergyBilling.API.csproj", "{925B7D7A-931D-497D-B6BD-C99CAE1136B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyBilling.Application", "EnergyBilling.Application\EnergyBilling.Application.csproj", "{0F4FF81B-349A-4A78-8F7D-74CA9A7DB937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyBilling.Domain", "EnergyBilling.Domain\EnergyBilling.Domain.csproj", "{DAFAD419-9F9A-408F-8249-E968A9C0489B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyBilling.Infrastructure", "EnergyBilling.Infrastructure\EnergyBilling.Infrastructure.csproj", "{74B846C2-2DE3-4D14-ABD1-98B0B0E8B5C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyBilling.Persistence", "EnergyBilling.Persistence\EnergyBilling.Persistence.csproj", "{5DF92C22-E975-4E15-B46A-63B9D3097847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyBilling.Shared", "EnergyBilling.Shared\EnergyBilling.Shared.csproj", "{0CEB32CC-2104-4C8F-B6A4-79CD00C124E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925B7D7A-931D-497D-B6BD-C99CAE1136B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925B7D7A-931D-497D-B6BD-C99CAE1136B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925B7D7A-931D-497D-B6BD-C99CAE1136B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925B7D7A-931D-497D-B6BD-C99CAE1136B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4FF81B-349A-4A78-8F7D-74CA9A7DB937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4FF81B-349A-4A78-8F7D-74CA9A7DB937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4FF81B-349A-4A78-8F7D-74CA9A7DB937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4FF81B-349A-4A78-8F7D-74CA9A7DB937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFAD419-9F9A-408F-8249-E968A9C0489B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFAD419-9F9A-408F-8249-E968A9C0489B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFAD419-9F9A-408F-8249-E968A9C0489B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFAD419-9F9A-408F-8249-E968A9C0489B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B846C2-2DE3-4D14-ABD1-98B0B0E8B5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B846C2-2DE3-4D14-ABD1-98B0B0E8B5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B846C2-2DE3-4D14-ABD1-98B0B0E8B5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B846C2-2DE3-4D14-ABD1-98B0B0E8B5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF92C22-E975-4E15-B46A-63B9D3097847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF92C22-E975-4E15-B46A-63B9D3097847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF92C22-E975-4E15-B46A-63B9D3097847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF92C22-E975-4E15-B46A-63B9D3097847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CEB32CC-2104-4C8F-B6A4-79CD00C124E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CEB32CC-2104-4C8F-B6A4-79CD00C124E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CEB32CC-2104-4C8F-B6A4-79CD00C124E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CEB32CC-2104-4C8F-B6A4-79CD00C124E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
